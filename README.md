@@ -32,7 +32,7 @@ We are grateful for the support received by the following organizations:
   <source media="(prefers-color-scheme: light)" srcset="https://i0.wp.com/fynelabs.com/wp-content/uploads/2022/01/logo_dark.png">
   
   <a href='https://fynelabs.com/'>
-    <img alt="Sponsored by Fyne Labs" width='200' src="https://i0.wp.com/fynelabs.com/wp-content/uploads/2022/01/logo_light.png">
+    <img alt="Sponsored by Fyne Labs" width='200' src="https://i0.wp.com/fynelabs.com/wp-content/uploads/2022/01/logo_dark.png">
   </a>
 </picture>
 <br />
@@ -40,6 +40,6 @@ We are grateful for the support received by the following organizations:
   <source media="(prefers-color-scheme: dark)" srcset="https://tutanota.com/resources/images/press/tutanota-red-gray-font-logo.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://tutanota.com/resources/images/press/tutanota-red-black-font-logo.svg">
   <a href='https://tutanota.com/'>
-    <img alt="Sponsored by Tutanota" width='300' src="https://tutanota.com/resources/images/press/tutanota-red-gray-font-logo.svg">
+    <img alt="Sponsored by Tutanota" width='300' src="https://tutanota.com/resources/images/press/tutanota-red-black-font-logo.svg">
   </a>
 </picture>
