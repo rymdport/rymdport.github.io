@@ -38,5 +38,5 @@ We are grateful for the support received by the following organizations:
 <br />
 
 <a href='https://tuta.com/'>
-  <img alt="Sponsored by Tuta" width='300' src="assets/tuta_striped_black.svg">
+  <img alt="Sponsored by Tuta" width='300' src="assets/tuta_logo.svg">
 </a>
